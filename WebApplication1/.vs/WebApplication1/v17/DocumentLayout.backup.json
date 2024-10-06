@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alede\\OneDrive - Universidad Fid\u00E9litas\\TercerCuatri2024\\Progra_Avanzada\\Practica1\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\valer\\OneDrive\\Desktop\\5 progra\\G7Practica1\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|c:\\users\\alede\\onedrive - universidad fid\u00E9litas\\tercercuatri2024\\progra_avanzada\\practica1\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|c:\\users\\valer\\onedrive\\desktop\\5 progra\\g7practica1\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alede\\OneDrive - Universidad Fid\u00E9litas\\TercerCuatri2024\\Progra_Avanzada\\Practica1\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Desktop\\5 progra\\G7Practica1\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\alede\\OneDrive - Universidad Fid\u00E9litas\\TercerCuatri2024\\Progra_Avanzada\\Practica1\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Desktop\\5 progra\\G7Practica1\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAE8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-05T02:27:54.72Z",
               "EditorCaption": ""
