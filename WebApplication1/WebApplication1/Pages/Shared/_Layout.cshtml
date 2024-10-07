@@ -15,7 +15,7 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">WebApplication1</a>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Practica 1</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -24,10 +24,7 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
+                        </li>   
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/alejandro">Alejandro</a>
                         </li>
@@ -41,56 +38,7 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
-            @RenderBody()
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="tab-content mt-3 p-3 " id="pills-tabTwoContent">
-                        <div class="tab-pane tab-example-preview fade show active" id="pills-portfolio-three-preview"
-                             role="tabpanel" aria-labelledby="pills-portfolio-three-preview-tab">
-                            <section class="mb-lg-9 mb-5">
-                                <div class="container">
-                                    <div class="row mb-3">
-                                        <div class="col-lg-12 col-md-12 xol-12">
-                                            <div class="text-center mb-7">
-                                                <p class="text-uppercase ls-md fw-semibold">Grupo 7</p>
-                                                <h1 class="display-5 m-3">Nuestro equipo de trabajo</h1>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row gy-5 mx-4 mb-4">
-                                        <div class="card p-4">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Alejandro Denver</h4>
-                                                <h5 class="card-subtitle mb-2 text-body-secondary">Hobbies</h5>
-                                                <ul>
-                                                    <li>Ver fútbol</li>
-                                                    <li>Jugar videojuegos</li>
-                                                    <li>Legos</li>
-                                                </ul>
-                                                <a href="/alejandro" class="card-link">Ver más...</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row gy-5 mx-4">
-                                        <div class="card p-4">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Valeria Solano</h4>
-                                                <h5 class="card-subtitle mb-2 text-body-secondary">Hobbies</h5>
-                                                <ul>
-                                                    <li>Leer libros</li>
-                                                    <li>Ir al gimnasio</li>
-                                                    <li>Ver atardeceres</li>
-                                                </ul>
-                                                <a href="/valeria" class="card-link">Ver más...</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            @RenderBody()  
         </main>
     </div>
 
