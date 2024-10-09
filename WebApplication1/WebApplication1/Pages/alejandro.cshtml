@@ -2,19 +2,20 @@
 @model WebApplication1.Pages.Index1Model
 @{
 }
-<main class="container py-4">
-    <div class="p-5 text-center">
-        <h4 class="mb-3">Canciones de Alejandro</h4>
+<main class="container text-center">
+    <div class="p-3">
+        <h1 class="display-6 m-3">Favoritos de Alejandro</h1>
+        <h4 class="mb-3">Canciones</h4>
     </div>
-    <div class="row">
-        <div class="col-lg-6">
+    <div class="row justify-content-md-center">
+        <div class="col">
             <div class="embed-responsive embed-responsive-4by3 py-3">
                 <iframe class="embed-responsive-item"
                         src="https://www.youtube.com/embed/1w7OgIMMRc4?si=UBxsmBAPYViA_GO3"
                         allowfullscreen></iframe>
             </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col">
             <div class="embed-responsive embed-responsive-4by3 py-3">
                 <iframe class="embed-responsive-item"
                         src="https://www.youtube.com/embed/R-BT2yzXP8w?si=gSoA9Gd13duaR0Ox"
@@ -23,14 +24,14 @@
         </div>
     </div>
     <div class="row align-items-md-stretch">
-        <div class="col-md-6">
+        <div class="col">
             <div class="embed-responsive embed-responsive-4by3 py-3">
                 <iframe class="embed-responsive-item"
                         src="https://www.youtube.com/embed/GLvohMXgcBo?si=n-xJRbYK5z9Exqgc"
                         allowfullscreen></iframe>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col">
             <div class="embed-responsive embed-responsive-4by3 py-3">
                 <iframe class="embed-responsive-item"
                         src="https://www.youtube.com/embed/OMD8hBsA-RI?si=Rzyl7kamiH3hJbbS"
@@ -39,28 +40,26 @@
         </div>
     </div>
 
-    <div class="p-5 text-center">
-        <h4 class="mb-3">Peliculas / Series de Alejandro</h4>
+    <div class="p-5">
+        <h4 class="mb-3">Películas y Series</h4>
     </div>
-    <div class="row">
-        <div class="col-md-6">
-            <div class="card" style="width: 18rem;">
-                <img src="https://m.media-amazon.com/images/S/pv-target-images/c7fc75a423fc33698265a27fe446a41026f3c8642fd6c8706c43b897d2ffb3e6.jpg" class="card-img-top" alt="..." style="height: 300px">
-                <div class="card-body">
-                    <h5 class="card-title">Friends</h5>
-                    <a href="https://www.lavanguardia.com/peliculas-series/series/friends-1668#:~:text=Las%20aventuras%20de%20seis%20j%C3%B3venes,Central%20Perk%2C%20su%20caf%C3%A9%20favorito." class="btn btn-primary">Sinopsis</a>
-                </div>
+    <div class="row justify-content-evenly">
+        <div class="card" style="width: 18rem;">
+            <img src="https://m.media-amazon.com/images/I/613kBtlQhaL._AC_UF894,1000_QL80_.jpg" class="card-img-top" alt="..." style="height: 400px">
+            <div class="card-body">
+                <h5 class="card-title">Friends</h5>
+                <a href="https://www.lavanguardia.com/peliculas-series/series/friends-1668#:~:text=Las%20aventuras%20de%20seis%20j%C3%B3venes,Central%20Perk%2C%20su%20caf%C3%A9%20favorito." class="btn btn-primary">Sinopsis</a>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 18rem;">
-                <img src="https://pics.filmaffinity.com/Star_Wars_The_Clone_Wars_La_temporada_final_Miniserie_de_TV-429429469-large.jpg" class="card-img-top" alt="..." style="height: 300px">
-                <div class="card-body">
-                    <h5 class="card-title">Clone Wars</h5>
-                    <a href="https://starwars.fandom.com/es/wiki/Star_Wars:_The_Clone_Wars" class="btn btn-primary">Sinopsis</a>
-                </div>
+        <div class="card" style="width: 18rem;">
+            <img src="https://pics.filmaffinity.com/Star_Wars_The_Clone_Wars_La_temporada_final_Miniserie_de_TV-429429469-large.jpg" class="card-img-top" alt="..." style="height: 400px">
+            <div class="card-body">
+                <h5 class="card-title">Clone Wars</h5>
+                <a href="https://starwars.fandom.com/es/wiki/Star_Wars:_The_Clone_Wars" class="btn btn-primary">Sinopsis</a>
             </div>
         </div>
     </div>
+
+
 
 </main>
