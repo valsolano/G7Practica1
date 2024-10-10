@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\valer\\OneDrive\\Desktop\\5 progra\\G7Practica1\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\G7Practica1\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|c:\\users\\valer\\onedrive\\desktop\\5 progra\\g7practica1\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|c:\\users\\valer\\onedrive\\desktop\\5progra\\g7practica1\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|c:\\users\\valer\\onedrive\\desktop\\5progra\\g7practica1\\webapplication1\\webapplication1\\pages\\valeria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{697EC850-3841-429F-974A-AF58729DC49E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\valeria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Desktop\\5 progra\\G7Practica1\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Desktop\\5 progra\\G7Practica1\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFkAAAAeAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\G7Practica1\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\G7Practica1\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T02:27:54.72Z",
+              "WhenOpened": "2024-10-10T21:46:54.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "valeria.cshtml",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\G7Practica1\\WebApplication1\\WebApplication1\\Pages\\valeria.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\valeria.cshtml",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Desktop\\5progra\\G7Practica1\\WebApplication1\\WebApplication1\\Pages\\valeria.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\valeria.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T21:31:21.066Z",
               "EditorCaption": ""
             }
           ]
